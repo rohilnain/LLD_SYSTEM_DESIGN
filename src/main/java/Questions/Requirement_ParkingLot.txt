@@ -1,0 +1,7 @@
+                                                  Parking Lot
+1.There should be multiple floor in Parking Lot.
+2.There should be multiple gates in the parking lot.
+3.There should be parking attendant at each gate.
+4.The Entry Gate should process parking ticket.
+5.The Parking lot should have parking facility for different types of vehicles.
+6.There should be Display boards at each floor showing the detail of vacant spots on the floor.
