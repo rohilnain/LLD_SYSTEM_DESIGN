@@ -1,5 +1,5 @@
 package DesignPatterns.Behaviour;
-//he Strategy Pattern is a behavioral design pattern that lets you define
+//The Strategy Pattern is a behavioral design pattern that lets you define
 // a family of algorithms, encapsulate them into separate classes, and
 // make them interchangeable at runtime.
 

@@ -96,7 +96,7 @@ class ValidPieceMove{
 
     }
 }
-//Simple factory to tell how each chess piece move
+//factory  and Strategy to tell how each chess piece move
 interface PiecePossibleMoves{
     List<Position>ChessPieceMovementByRules(ChessBoard currentChessBoard,Position from,Position to);
 }
