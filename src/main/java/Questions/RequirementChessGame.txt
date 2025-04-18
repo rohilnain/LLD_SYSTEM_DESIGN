@@ -1,0 +1,7 @@
+                                       Chess Game
+1.2 players will be playing a chess game
+2.All chess rules to be followed.
+3.Chess Board should have updated positions of pieces on every move.
+4.Player can  move Piece on valid block for that piece.
+5.Player can know all valid moves for a piece.
+6.Assume that there is no time limit on game.
