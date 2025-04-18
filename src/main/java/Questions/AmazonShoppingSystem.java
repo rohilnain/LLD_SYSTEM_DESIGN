@@ -199,7 +199,7 @@ class NotificationService {
 
 }
 
-class MessageAttributes {
+class MessageAttribute {
 
     String to;
     String from;
